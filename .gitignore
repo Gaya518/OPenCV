@@ -1,2 +1,3 @@
 # exlude vitual env
-venu
+# Ignore any folder named venv in any subdirectory
+*/venv/
