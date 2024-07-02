@@ -1,0 +1,9 @@
+# core computer vision libraries
+opencv-python==4.10.0.84
+numpy
+
+scipy
+pillow
+matplotlib
+scikit-learn
+scikit-image
