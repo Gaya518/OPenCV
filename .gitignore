@@ -1,3 +1,4 @@
 # exlude vitual env
 # Ignore any folder named venv in any subdirectory
 */venv/
+.idea
